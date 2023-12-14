@@ -13,3 +13,4 @@ Agregar estos enlaces en tu app de podcast favorito:
 - Gozosos: https://raw.githubusercontent.com/hkfuertes/rosario/main/gozosos.xml
 - Luminososo: https://raw.githubusercontent.com/hkfuertes/rosario/main/luminosos.xml
 - Gloriosos: https://raw.githubusercontent.com/hkfuertes/rosario/main/gloriosos.xml
+- Dolorosos: https://raw.githubusercontent.com/hkfuertes/rosario/main/dolorosos.xml
