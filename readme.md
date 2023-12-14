@@ -9,7 +9,7 @@ En vez de desarrollar una app, y ya que el rosario tiene la estructura secuencia
 > Aunque cada "misterio" reproduce un audio de silencio de 10 min, se recomienda pausar o elegir repetir track y cambiar de misterio manualmente para llevar un mejor control de tiempos.
 
 ### Enlaces de Podcast
-Agregar estos enlaces en tu app de podcast favorito:
+Agrega estos enlaces en tu app de podcast favorito:
 - Gozosos: https://raw.githubusercontent.com/hkfuertes/rosario/main/gozosos.xml
 - Luminososo: https://raw.githubusercontent.com/hkfuertes/rosario/main/luminosos.xml
 - Gloriosos: https://raw.githubusercontent.com/hkfuertes/rosario/main/gloriosos.xml
