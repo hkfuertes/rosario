@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Misterios Dolorosos</title>
+    <itunes:author>Santo Rosario</itunes:author>
+    <link>https://github.com/hkfuertes/rosario</link>
+    <language>es-es</language>
+    <description>Lunes y Sabado</description>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://raw.githubusercontent.com/hkfuertes/rosario/main/covers/dolorosos.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <title>1. La oración en el Huerto</title>
+      <description>«Entonces Jesús fue con ellos a un huerto, llamado Getsemaní, y dijo a sus discípulos: "Sentaos aquí mientras voy a orar". Y tomando consigo a Pedro y a los dos hijos de Zebedeo, comenzó a sentir tristeza y angustia. Entonces les dijo: "Mi alma está triste hasta el punto de morir; quedaos aquí y velad conmigo". Y adelantándose un poco, cayó rostro en tierra, y suplicaba así: "Padre mío, si es posible, que pase de mí esta copa, pero no sea como yo quiero, sino como quieras tú"» (Mt 26, 36-39).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <title>2. La flagelación de Jesús atado a la columna</title>
+      <description>«Pilato puso en libertad a Barrabás; y a Jesús, después de haberlo hecho azotar, lo entregó para que fuera crucificado» (Mt 27, 26).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <title>3. La coronación de espinas</title>
+      <description>«Entonces los soldados del procurador llevaron consigo a Jesús al pretorio y reunieron alrededor de él a toda la cohorte. Lo desnudaron y le echaron encima un manto de púrpura y, trenzando una corona de espinas, se la pusieron sobre la cabeza, y en su mano derecha una caña, y doblando la rodilla delante de él, le hacían burla diciendo: "Salve, Rey de los judíos"». (Mt 27, 27-29)</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <title>4. Jesús con la Cruz a cuestas camino del Calvario</title>
+      <description>«Y obligaron a uno que pasaba, a Simón de Cirene, que volvía del campo, el padre de Alejandro y de Rufo, a que llevara su cruz. Lo condujeron al lugar del Gólgota, que quiere decir de la "Calavera"» (Mc 15, 21-22).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <title>5. La crucifixión y muerte de Jesús</title>
+      <description>«Llegados al lugar llamado "La Calavera", le crucificaron allí a él y a los dos malhechores, uno a la derecha y otro a la izquierda. Jesús decía: "Padre, perdónales, porque no saben lo que hacen"... Era ya eso de mediodía cuando, al eclipsarse el sol, hubo oscuridad sobre toda la tierra hasta la media tarde. El velo del Santuario se rasgó por medio y Jesús, dando un fuerte grito dijo: "Padre, en tus manos pongo mi espíritu" y, dicho esto, expiró» (Lc  23, 33-46).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 04:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
