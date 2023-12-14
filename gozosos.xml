@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Misterios Gozosos</title>
+    <itunes:author>Santo Rosario</itunes:author>
+    <link>https://github.com/hkfuertes/rosario</link>
+    <language>es-es</language>
+    <description>Lunes y Sabado</description>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://raw.githubusercontent.com/hkfuertes/rosario/main/covers/gozosos.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <title>1. La Encarnación del Hijo de Dios</title>
+      <description>«Al sexto mes el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada Nazaret, a una virgen desposada con un hombre llamado José, de la estirpe de David; el nombre de la virgen era María» (Lc 1,26-27).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <title>2. La Visitación de Nuestra Señora a su prima Santa Isabel</title>
+      <description>«En aquellos días María se puso en camino y fue aprisa a la región montañosa, a una ciudad de Judá; entró en casa de Zacarías y saludó a Isabel. Y sucedió que, en cuanto Isabel oyó el saludo de María, saltó de gozo el niño en su seno, e Isabel quedó llena de Espíritu Santo; y exclamando a voz en grito, dijo: "Bendita tú entre las mujeres y bendito el fruto de tu seno"» (Lc 1, 39-42)</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <title>3. El Nacimiento del Hijo de Dios en el portal de Belén</title>
+      <description>«Sucedió que por aquellos días salió un edicto de César Augusto ordenando que se empadronase todo el mundo. Este primer empadronamiento tuvo lugar siendo Cirino gobernador de Siria. Iban todos a empadronarse, cada uno a su ciudad. Subió también José desde Galilea, de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén, por ser él de la casa y familia de David, para empadronarse con María, su esposa, que estaba encinta. Y sucedió que, mientras ellos estaban allí, se le cumplieron los días del alumbramiento, y dio a luz a su hijo primogénito, le envolvió en pañales y le acostó en un pesebre, porque no tenían sitio en el alojamiento» (Lc 2,1-7).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <title>4. La presentación de Jesús en el Templo</title>
+      <description>«Cuando se cumplieron los ocho días para circuncidarle, se le dio el nombre de Jesús, como lo había llamado el ángel antes de ser concebido en el seno. Cuando se cumplieron los días de la purificación de ellos, según la Ley de Moisés, llevaron a Jesús a Jerusalén para presentarle al Señor, como está escrito en la Ley del Señor: Todo varón primogénito será consagrado al Señor y para ofrecer en sacrificio un par de tórtolas o dos pichones, conforme a lo que se dice en la Ley del Señor» (Lc 2, 21-24).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <title>5. El Niño Jesús perdido y hallado en el Templo</title>
+      <description>«Sus padres iban todos los años a Jerusalén a la fiesta de la Pascua. Cuando tuvo doce años, subieron ellos como de costumbre a la fiesta y, al volverse, pasados los días, el niño Jesús se quedó en Jerusalén, sin saberlo sus padres... Y sucedió que al cabo de tres días, le encontraron en el Templo sentado en medio de los maestros, escuchándoles y preguntándoles; todos los que le oían, estaban estupefactos por su inteligencia y sus respuestas» (Lc 2, 41-47)</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 04:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

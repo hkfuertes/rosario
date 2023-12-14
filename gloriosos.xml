@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Misterios Gloriosos</title>
+    <itunes:author>Santo Rosario</itunes:author>
+    <link>https://github.com/hkfuertes/rosario</link>
+    <language>es-es</language>
+    <description>Lunes y Sabado</description>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://raw.githubusercontent.com/hkfuertes/rosario/main/covers/gloriosos.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <title>1. La resurrección del Hijo de Dios</title>
+      <description>«El primer día de la semana, muy de mañana, fueron al sepulcro llevando los aromas que habían preparado. Pero encontraron que la piedra había sido retirada del sepulcro, y entraron, pero no hallaron el cuerpo del Señor Jesús. No sabían qué pensar de esto, cuando se presentaron ante ellas dos hombres con vestidos resplandecientes. Ellas, despavoridas, miraban al suelo, y ellos les dijeron: "¿Por qué buscáis entre los muertos al que está vivo? No está aquí, ha resucitado"» (Lc 24, 1-6).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <title>2. La Ascensión del Señor al cielo</title>
+      <description>«El Señor Jesús, después de hablarles, ascendió al cielo y se sentó a la derecha de Dios» (Mc 16, 19).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <title>3. La venida del Espíritu Santo</title>
+      <description>«Al llegar el día de Pentecostés, estaban todos reunidos en un mismo lugar. De repente vino del cielo un ruido como el de una ráfaga de viento impetuoso, que llenó toda la casa en la que se encontraban. Se les aparecieron unas lenguas como de fuego que se repartieron y se posaron sobre cada uno de ellos; quedaron todos llenos del Espíritu Santo y se pusieron a hablar en otras lenguas, según el Espíritu les concedía expresarse» (Hch 2, 1-4).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <title>4. La Asunción de María al cielo</title>
+      <description>«Todas las generaciones me llamarán bienaventurada porque el Señor ha hecho obras grandes en mí» (Lc 1, 48-49).</description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <title>5. La coronación de María como Reina y Señora de todo lo creado</title>
+      <description>«Una gran señal apareció en el cielo: una mujer, vestida de sol, con la luna bajo sus pies, y una corona de doce estrellas sobre su cabeza» (Ap 12, 1). </description>
+      <enclosure
+        type="audio/mp3" 
+        url="https://github.com/hkfuertes/rosario/raw/main/silence.mp3"
+      />
+      <itunes:duration>1024</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 25 Dec 2023 04:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
