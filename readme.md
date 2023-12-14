@@ -10,5 +10,5 @@ En vez de desarrollar una app, y ya que el rosario tiene la estructura secuencia
 
 ### Enlaces de Podcast
 Agregar estos enlaces en tu app de podcast favorito:
-- Gozosos: [AntennaPod](antennapod-subscribe://https://raw.githubusercontent.com/hkfuertes/rosario/main/podcast/gozosos.xml)
-- Luminososo: [AntennaPod](antennapod-subscribe://https://raw.githubusercontent.com/hkfuertes/rosario/main/podcast/luminosos.xml)
+- Gozosos: <a href="antennapod-subscribe://https://raw.githubusercontent.com/hkfuertes/rosario/main/podcast/gozosos.xml">AntennaPod</a>
+- Luminososo: <a href="antennapod-subscribe://https://raw.githubusercontent.com/hkfuertes/rosario/main/podcast/luminosos.xml">AntennaPod</a>
